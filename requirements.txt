@@ -1,0 +1,11 @@
+opencv-python>=4.10.0
+mediapipe>=0.10.14
+numpy>=1.26.0
+scipy>=1.13.0
+gradio>=5.0.0
+ultralytics>=8.3.0
+reportlab>=4.2.2
+Pillow>=10.4.0
+pandas>=2.2.2
+matplotlib>=3.9.0
+tqdm>=4.66.4
